@@ -1,0 +1,62 @@
+body {
+    font-family: "PT Sans", sans-serif;
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+    background-color: #000000;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+    background-color: #0f0f0f;
+    text-transform: uppercase;
+}
+.navbar-brand {
+    color: #ffffff;
+    background-color: #0f0f0f;
+    font-size: 36px;
+    font-family: "PostNoBillsJaffna", sans-serif;
+    src: url(/font/PostNoBillsJaffna-Bold.ttf);
+    font-weight: 700;
+    line-height: 49px;
+    text-align: center;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.card-text-name {font-family: "PT Sans", sans-serif;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 29px;
+    text-transform: uppercase;
+}
+
+div .card {
+    background-color: rgba(0, 0, 0, 0.0);
+    font-family: "PT Sans", sans-serif;
+    color: #ffffff;
+}
+.card-group {
+    font-family: "PT Sans", sans-serif;
+    color: #ffffff;
+}
+h1 {
+    font-size: 64px;
+    font-family: "PostNoBillsJaffna", sans-serif;
+    src: url(/font/PostNoBillsJaffna-Bold.ttf);
+    font-weight: 700;
+    line-height: 96px;
+    text-align: center;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 0.06em;
+    color: #ffffff;
+}
+.card-group-footer {
+    background-image: url(/img/Rectangle_6.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+  }
